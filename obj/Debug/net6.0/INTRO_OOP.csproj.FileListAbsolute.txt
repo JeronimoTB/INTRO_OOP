@@ -1,0 +1,15 @@
+C:\Users\Sena\Desktop\INTRO_OOP\bin\Debug\net6.0\INTRO_OOP.exe
+C:\Users\Sena\Desktop\INTRO_OOP\bin\Debug\net6.0\INTRO_OOP.deps.json
+C:\Users\Sena\Desktop\INTRO_OOP\bin\Debug\net6.0\INTRO_OOP.runtimeconfig.json
+C:\Users\Sena\Desktop\INTRO_OOP\bin\Debug\net6.0\INTRO_OOP.dll
+C:\Users\Sena\Desktop\INTRO_OOP\bin\Debug\net6.0\INTRO_OOP.pdb
+C:\Users\Sena\Desktop\INTRO_OOP\obj\Debug\net6.0\INTRO_OOP.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\INTRO_OOP\obj\Debug\net6.0\INTRO_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\INTRO_OOP\obj\Debug\net6.0\INTRO_OOP.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\INTRO_OOP\obj\Debug\net6.0\INTRO_OOP.AssemblyInfo.cs
+C:\Users\Sena\Desktop\INTRO_OOP\obj\Debug\net6.0\INTRO_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\INTRO_OOP\obj\Debug\net6.0\INTRO_OOP.dll
+C:\Users\Sena\Desktop\INTRO_OOP\obj\Debug\net6.0\refint\INTRO_OOP.dll
+C:\Users\Sena\Desktop\INTRO_OOP\obj\Debug\net6.0\INTRO_OOP.pdb
+C:\Users\Sena\Desktop\INTRO_OOP\obj\Debug\net6.0\INTRO_OOP.genruntimeconfig.cache
+C:\Users\Sena\Desktop\INTRO_OOP\obj\Debug\net6.0\ref\INTRO_OOP.dll
