@@ -1,4 +1,4 @@
-﻿
+﻿Console.WriteLine("Hola Mundo");
 Console.WriteLine("Numero Uno");
 int num_uno = int.Parse(Console.ReadLine());
 

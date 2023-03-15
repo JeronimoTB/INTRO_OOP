@@ -12,7 +12,7 @@ class OperacionesAritmeticas
     //mod acc tipo retorno nombreMetodo
     public void sumar_num(){
         //Operaciones
-        int resul = numero_uno + numero_dos;
+        float resul = numero_uno + numero_dos;
 
         //Salida
         Console.WriteLine("El resultado de la suma es " + resul);
@@ -20,20 +20,20 @@ class OperacionesAritmeticas
 
     public void restar_num(){
         //Operaciones
-        int resul = numero_uno - numero_dos;
+        float resul = numero_uno - numero_dos;
 
         //Salida
         Console.WriteLine("El resultado de la resta es " + resul);
     }
 
     public void multiplicar_num(){
-    int resul = numero_uno * numero_dos;
+    float resul = numero_uno * numero_dos;
 
     Console.WriteLine("El resultado de la multiplicacion es " + resul);
     }
 
     public void dividir_num(){
-    int resul = numero_uno / numero_dos;
+    float resul = numero_uno / numero_dos;
 
     Console.WriteLine("El resultado de la division es " + resul);
     }
